@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1678244031 source:c:\users\hp\desktop\programy na github\c++\games\gra filozoficzna\main.cpp
+	<iostream>
+	<windows.h>
+	<cstdlib>
+	<conio.h>
+	<windows.h>
+
+1741572994 source:f:\my portafolio it ulepszona\c++\games\philosophical stone - game\main.cpp
+	<iostream>
+	<string>
+	"ascii_art.h"
+	"game_utils.h"
+
+1741572122 f:\my portafolio it ulepszona\c++\games\philosophical stone - game\ascii_art.h
+	<string>
+
+1741573000 f:\my portafolio it ulepszona\c++\games\philosophical stone - game\game_utils.h
+	<iostream>
+	<thread>
+	<chrono>
+	<string>
+	<windows.h>
+
