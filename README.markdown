@@ -77,7 +77,7 @@ Run the game:
 2. Follow the story and make decisions using keyboard inputs (a, b, c, etc.).
 3. Monitor your health and sanity stats displayed in-game.
 4. Explore, survive, and unveil the truth behind the Philosophical Stone.
-
+```
 ---
 
 ## 🖼️ Screenshots
@@ -102,9 +102,9 @@ To contribute:
 
 4. Push to GitHub and open a pull request:
    git push origin feature/your-feature
-
-Please follow the existing code style and include helpful comments.
 ```
+Please follow the existing code style and include helpful comments.
+
 
 ---
 
