@@ -104,6 +104,7 @@ To contribute:
    git push origin feature/your-feature
 
 Please follow the existing code style and include helpful comments.
+```
 
 ---
 
