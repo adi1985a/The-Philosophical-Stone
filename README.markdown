@@ -12,6 +12,8 @@ A thought-provoking, ASCII-styled, console adventure set in a dark philosophical
 
 **The Philosophical Stone** is a dark, immersive text-based adventure written in C++. You awaken deep within a forgotten dungeon, with only your instincts—and a fading grip on reality. Traverse eerie chambers, confront moral quandaries, and balance your health and sanity in a journey to discover the legendary Philosophical Stone.
 
+![Demo GIF](screenshots/1.gif)
+
 This game combines:
 - ⚖️ Philosophical storytelling
 - 🧪 Game mechanics that monitor your mind and body
@@ -82,8 +84,12 @@ Run the game:
 
 ## 🖼️ Screenshots
 
-**Coming soon!**  
-Visuals of the title screen and gameplay interface will be added here.
+Visuals of the title screen and gameplay interface.
+<p align="center">
+  <img src="screenshots\1.jpg" width="300"/>
+  <img src="screenshots\3.jpg" width="300"/>
+  <img src="screenshots\4.jpg" width="300"/>
+</p>
 
 ---
 
