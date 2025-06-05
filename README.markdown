@@ -1,66 +1,124 @@
-# The Philosophical Stonen by
+# 🧱 The Philosophical Stone – Text-Based Adventure in C++
 
-## Overview
+A thought-provoking, ASCII-styled, console adventure set in a dark philosophical realm.
 
-"The Philosophical Stone" is a text-based adventure game written in C++. Players awaken in a mysterious dungeon and navigate through a series of rooms, making choices that affect their health and sanity. The game features ASCII art, a compelling narrative, and philosophical themes, culminating in a quest for the titular stone.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![C++](https://img.shields.io/badge/Language-C%2B%2B-blue.svg)](https://isocpp.org/)
+[![Platform: Windows](https://img.shields.io/badge/Platform-Windows-lightgrey.svg)](https://www.microsoft.com/windows)
 
-## Features
+---
 
-- **Interactive Storyline**: Multiple rooms with unique choices and outcomes.
-- **Player Stats**: Track health and sanity, influencing gameplay.
-- **ASCII Art**: Visual title screen for immersive experience.
-- **Console-Based**: Utilizes console colors and text effects for storytelling.
+## 🧠 Overview
 
-## Requirements
+**The Philosophical Stone** is a dark, immersive text-based adventure written in C++. You awaken deep within a forgotten dungeon, with only your instincts—and a fading grip on reality. Traverse eerie chambers, confront moral quandaries, and balance your health and sanity in a journey to discover the legendary Philosophical Stone.
 
-- C++ compiler (e.g., g++)
-- Windows OS (for console title and color functions)
-- Standard libraries: `<iostream>`, `<string>`
+This game combines:
+- ⚖️ Philosophical storytelling
+- 🧪 Game mechanics that monitor your mind and body
+- 🎨 Retro ASCII art to evoke classic console adventures
 
-## Installation
+---
 
-1. Clone the repository:
+## ✨ Features
 
-   ```bash
-   git clone https://github.com/yourusername/philosophical-stone.git
-   ```
-2. Navigate to the project directory:
+🎭 **Interactive Storyline**  
+Engage with unique rooms and moral choices that determine your path.
 
-   ```bash
-   cd philosophical-stone
-   ```
-3. Compile the code:
+❤️ **Health & 🧠 Sanity Tracking**  
+Make every decision count—both your body and mind are on the line.
 
-   ```bash
-   g++ main.cpp -o philosophical_stone
-   ```
-4. Run the game:
+🖼️ **ASCII Visuals**  
+Classic ASCII art title screen for nostalgic immersion.
 
-   ```bash
-   ./philosophical_stone
-   ```
+🖥️ **Console Interface**  
+Colorful text and visual effects bring the adventure to life.
 
-## How to Play
+---
 
-- Launch the game and press any key to start.
-- Read the narrative and choose options (a, b, c, etc.) by typing the letter and pressing Enter.
-- Monitor your health and sanity to survive.
-- Make wise choices to uncover the secrets of the castle and find the Philosopher's Stone.
+## 🛠 Requirements
 
-## Files
+- ✅ C++ compiler (e.g., `g++`)
+- 🪟 Windows OS *(for title and color display support)*
+- 📦 Standard libraries: `<iostream>`, `<string>`
 
-- `main.cpp`: Core game logic and narrative.
-- `ascii_art.h`: ASCII art for the title screen.
-- `game_utils.h`: Utility functions for console manipulation and game mechanics.
+---
 
-## Contributing
+## ⚙️ Installation
 
-Contributions are welcome! Please fork the repository and submit a pull request with your changes. Ensure your code follows the existing style and includes comments.
+Clone the repository:
+```bash
+git clone https://github.com/yourusername/philosophical-stone.git
+```
 
-## License
+Navigate to the project directory:
 
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+```bash
+cd philosophical-stone
+```
 
-## Author
+Compile the code:
 
-- Adrian Lesniak
+```bash
+g++ main.cpp -o philosophical_stone
+```
+
+Run the game:
+
+```bash
+./philosophical_stone
+```
+
+---
+
+## ▶️ How to Play
+
+```text
+1. Launch the game and press any key to begin your journey.
+2. Follow the story and make decisions using keyboard inputs (a, b, c, etc.).
+3. Monitor your health and sanity stats displayed in-game.
+4. Explore, survive, and unveil the truth behind the Philosophical Stone.
+```
+---
+
+## 🖼️ Screenshots
+
+**Coming soon!**  
+Visuals of the title screen and gameplay interface will be added here.
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome!  
+To contribute:
+
+```bash
+1. Fork the repository.
+2. Create a new feature branch:
+   git checkout -b feature/your-feature
+
+3. Make your changes and commit:
+   git commit -m "Add your feature"
+
+4. Push to GitHub and open a pull request:
+   git push origin feature/your-feature
+```
+Please follow the existing code style and include helpful comments.
+
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License**.  
+See the [LICENSE](./LICENSE) file for full details.
+
+---
+
+## 👨‍💻 Author
+
+**Adrian Leśniak**  
+Software Developer & Creative C++ Storyteller
+
+
+
